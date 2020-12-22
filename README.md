@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jasmin !!
+### Hi there 👋, I'm Jasmin !!
 <hr/>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
@@ -24,7 +24,7 @@ I'm always looking forward to learn new skills and add them in the list.
 [<img align="left" alt="twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/jasminluka007)
 [<img align="left" alt="linkedin" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/jasminluka)
 
-<br />
+<br /><br />
 
 ### Languages and Tools:
 

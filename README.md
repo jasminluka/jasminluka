@@ -20,10 +20,10 @@ I'm always looking forward to learn new skills and add them in the list.
 
 ### Connect with me:
 
-[<img alt="facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/jasminluka007)
-[<img alt="instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/jasminluka)
-[<img alt="twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/jasminluka007)
-[<img alt="linkedin" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/jasminluka)
+[<img align="left" alt="facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/jasminluka007)
+[<img align="left" alt="instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/jasminluka)
+[<img align="left" alt="twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/jasminluka007)
+[<img align="left" alt="linkedin" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/jasminluka)
 
 <br />
 
@@ -44,18 +44,16 @@ I'm always looking forward to learn new skills and add them in the list.
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/material-ui.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/bulma.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/strapi.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/npm.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
 ---
 
-<img height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasminluka&theme=algolia&show_icons=true" />
-<img height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminluka&theme=algolia&&layout=compact" />
+<img align="left" height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasminluka&theme=algolia&show_icons=true" />
+<img align="left" height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminluka&theme=algolia&&layout=compact" />

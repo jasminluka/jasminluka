@@ -54,6 +54,6 @@ I'm always looking forward to learn new skills and add them in the list.
 ### Github Stats
 
 <p>
-  <img height="180em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasminluka&theme=algolia&show_icons=true" />
-  <img height="180em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminluka&theme=algolia&&layout=compact" />
+  <img height="180em" width="50%" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasminluka&theme=algolia&show_icons=true" />
+  <img height="180em" width="50%" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminluka&theme=algolia&&layout=compact" />
 </p>

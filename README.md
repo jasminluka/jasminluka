@@ -16,7 +16,6 @@ I'm always looking forward to learn new skills and add them in the list.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; I am willing to work on free-lance projects and love to contribute to open source projects.
 
-<br />
 
 ### Connect with me:
 
@@ -55,5 +54,7 @@ I'm always looking forward to learn new skills and add them in the list.
 
 ---
 
-<img align="left" height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasminluka&theme=algolia&show_icons=true" />
-<img align="left" height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminluka&theme=algolia&&layout=compact" />
+<p>
+  <img align="left" height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jasminluka&theme=algolia&show_icons=true" />
+  <img align="left" height="200em" alt="jasminluka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminluka&theme=algolia&&layout=compact" />
+</p>
